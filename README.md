@@ -4,6 +4,7 @@ You should explore the contents of this project. It demonstrates a CDK app with 
 which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
+https://cdkworkshop.com/20-typescript/30-hello-cdk.html
 
 ## Useful commands
 
